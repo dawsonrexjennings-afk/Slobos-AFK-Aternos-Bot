@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Vexqyx2BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Echo-SMP-net.aternos.me",
+    "port": 35248,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +32,10 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to VEXQYX!",
         "I like to play Minecraft!"
+        "I HATE NOXIQZZ"
+        "I HATE WXCK249"
       ]
     },
     "chat-log": true,
